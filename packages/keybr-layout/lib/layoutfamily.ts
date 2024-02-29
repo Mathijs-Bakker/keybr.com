@@ -82,6 +82,7 @@ export class LayoutFamily implements EnumItem {
     LayoutFamily.COLEMAK,
     LayoutFamily.COLEMAK_DH,
     LayoutFamily.COLEMAK_DH_MATRIX,
+    LayoutFamily.ENGRAM_MATRIX,
     LayoutFamily.WORKMAN,
     LayoutFamily.BEPO,
     LayoutFamily.ERGO_L,
