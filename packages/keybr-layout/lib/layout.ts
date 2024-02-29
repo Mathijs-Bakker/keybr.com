@@ -88,6 +88,15 @@ export class Layout implements XEnumItem {
     /* emulate= */ true,
     /* geometries= */ new Enum(Geometry.MATRIX),
   );
+  static readonly EN_US_GLORIOUS_ENGRAMMER = new Layout(
+    /* id= */ "us-glorious-engrammer-matrix",
+    /* xid= */ 0x1b,
+    /* name= */ "US Glorious Engrammer (matrix)",
+    /* family= */ LayoutFamily.ENGRAM_MATRIX,
+    /* language= */ Language.EN,
+    /* emulate= */ true,
+    /* geometries= */ new Enum(Geometry.MATRIX),
+  );
   static readonly EN_US_CANARY_MATRIX = new Layout(
     /* id= */ "us-canary-matrix",
     /* xid= */ 0x1d,

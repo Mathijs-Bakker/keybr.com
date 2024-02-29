@@ -33,6 +33,10 @@ export class LayoutFamily implements EnumItem {
     /* id= */ "canary-matrix",
     /* script= */ "latin",
   );
+  static readonly ENGRAM_MATRIX = new LayoutFamily(
+    /* id= */ "engram_matrix",
+    /* script= */ "latin",
+  );
   static readonly WORKMAN = new LayoutFamily(
     /* id= */ "workman",
     /* script= */ "latin",
